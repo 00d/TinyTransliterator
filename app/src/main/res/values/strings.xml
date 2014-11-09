@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tiny Transliterator</string>
+    <string name="action_settings">Settings</string>
+    <string name="translate_button">Translate</string>
+    <string name="translate_text_view">Enter words to transliterate...</string>
+
+</resources>
