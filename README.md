@@ -1,4 +1,4 @@
 TinyTransliterator
 ==================
 
-Improving the "diminutive translator" translator app using XML
+Improving the "diminutive translator" app using XML
